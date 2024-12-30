@@ -1,0 +1,7 @@
+[package]
+edition = "2021"
+name = "rhythmic"
+version = "0.1.0"
+authors = ["Michael Kerscher <rust@kerscher-michael.de>"]
+
+[dependencies]
